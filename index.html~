@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Devanjali Agarbatti</div>
-    <div class="address-bar">Vill. & Post Niyardeeh , Varanasi | +91-9415988590 | <a href="http://facebook.com/devanjaliagarbatti"><img height="50px" width="50px" src="img/fb.png"/></a></div>
+    <div class="address-bar">Vill. & Post Niyardeeh , Varanasi | +91-9415988590</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -63,6 +63,9 @@
                     </li>
                     <li>
                         <a href="contact.html">Contact</a>
+                    </li>
+                    <li>
+                        <a href="http://facebook.com/devanjaliagarbatti"><img height="50px" width="50px" src="img/fb.png"/></a>
                     </li>
                 
                 </ul>
